@@ -1,0 +1,8 @@
+[url]
+base = 'Base'
+filing_summary = 'Filing summary'
+filing = 'Filing'
+
+
+[balance_sheets]
+name = 'Balance sheets'
